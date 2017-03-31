@@ -21,9 +21,7 @@ the program will ask you to choose remove stopWord or not. you must type yes or 
 
 the program will report the accuracyRate.
 
-###### Running example
 
-![Picture1-w395](https://lh3.googleusercontent.com/-r0tu5Mmbi7c/WN2g97JsbsI/AAAAAAAAGmk/8kLEcOPLAuo/I/Picture1.png)
 
 # logisticR.py    
 
@@ -46,9 +44,7 @@ second, the program will ask you to input learning rate,running time and lambda_
 
 the program will report the accuracyRate.
 
-###### Running example
 
-![Picture2-349](https://lh3.googleusercontent.com/-ny1YcsQqR9s/WN2g9xGQfnI/AAAAAAAAGmo/cG1W5NHp5qQ/I/Picture2.png)
 
 
 
